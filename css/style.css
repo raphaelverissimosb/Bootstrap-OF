@@ -2,7 +2,7 @@ body{
     font: 20px sans-serif;
 }
 .navbar{
-    background-color: green;
+    background-color: rgba(236, 147, 14, 0.911);
 }
 .quem-somos{
     background-color:rgb(83, 83, 211);
@@ -11,4 +11,22 @@ body{
 .margin{
     padding-top: 30px;  
     padding-bottom: 30px;
+}
+.parceiros{
+    background-color: rgb(82, 137, 219);
+}
+.row div img {
+    margin-top: 50px;
+    width: 200px;
+    height: 200px;
+}
+footer{
+    color: white;
+    height: 80px;
+}
+footer p{
+    padding-top: 40px;
+}
+.bg-footer{
+    background-color: rgb(82, 137, 219)
 }
